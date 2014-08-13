@@ -12,13 +12,14 @@ Description:
 
 Controls:
     Alien (you) controls:
+
+
+    space key - starts game
+    q - shoots spam
     i - up
     j - left
     k - down
     l - right
-
-    space key - starts game
-    q - shoots spam
 
 
 Currently, the game will end when either you win or die. You start with 5 bullets. These run out fast! To refill, you
